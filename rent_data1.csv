@@ -1,0 +1,16 @@
+age,work,house,credit,answer
+young,not,not,1,FALSE
+young,not,not,2,FALSE
+young,have,not,2,TRUE
+young,have,have,1,TRUE
+young,not,not,1,FALSE
+middle,not,not,1,FALSE
+middle,not,not,2,FALSE
+middle,have,have,2,TRUE
+middle,not,have,3,TRUE
+middle,not,have,3,TRUE
+old,not,have,3,TRUE
+old,not,have,2,TRUE
+old,have,not,2,TRUE
+old,have,not,3,TRUE
+old,not,not,1,FALSE
